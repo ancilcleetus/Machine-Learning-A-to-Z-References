@@ -17,13 +17,13 @@ and we can take advantage of the free GPUs for Deep Learning.
 
 Contents are as follows:
 
-## Part 01 Data Preprocessing
-## Part 02 Regression
-  ### 01 Simple Linear Regression
-  ### 02 Multiple Linear Regression
-  ### 03 Polynomial Regression
-  ### 04 Support Vector Regression
-  ### 05 Decision Tree Regression
-  ### 06 Random Forest Regression
-  ### 07 Regression Model Performance Evaluation
-  ### 08 Regression Model Selection
+### Part 01 Data Preprocessing
+### Part 02 Regression
+  #### 01 Simple Linear Regression
+  #### 02 Multiple Linear Regression
+  #### 03 Polynomial Regression
+  #### 04 Support Vector Regression
+  #### 05 Decision Tree Regression
+  #### 06 Random Forest Regression
+  #### 07 Regression Model Performance Evaluation
+  #### 08 Regression Model Selection
