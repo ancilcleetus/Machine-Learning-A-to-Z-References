@@ -8,6 +8,9 @@ techniques and then into Deep Learning. Deep Learning for NLP and Computer Visio
 along with Deep Reinforcement Learning. Quantum Machine Learning techniques are also planned to be
 added, but currently it is an overkill for me.
 
+Initially, the focus will be on basic examples of all the relevant machine learning techniques. Focus
+will be on covering the intuition behind each technique using simple datasets.
+
 Python will be used extensively (Python 3) and all the major machine learning libraries and tools
 will be covered (including but not limited to numpy, pandas, matplotlib, scikit-learn, scipy,
 tensorflow etc.). Currently, Google Colaboratory is used as our Notebook Environment since our target
