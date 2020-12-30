@@ -26,8 +26,8 @@ Contents are as follows:
   #### 02 Multiple Linear Regression  - DONE
   #### 03 Polynomial Regression  - DONE
   #### 04 Support Vector Regression  - DONE
-  #### 05 Decision Tree Regression  - ONGOING
-  #### 06 Random Forest Regression  - TBD
+  #### 05 Decision Tree Regression  - DONE
+  #### 06 Random Forest Regression  - ONGOING
   #### 07 Regression Model Performance Evaluation  - TBD
   #### 08 Regression Model Selection  - TBD
 ### Part 03 Classification
