@@ -28,8 +28,7 @@ Contents are as follows:
   #### 04 Support Vector Regression  - DONE
   #### 05 Decision Tree Regression  - DONE
   #### 06 Random Forest Regression  - DONE
-  #### 07 Regression Model Performance Evaluation  - DONE
-  #### 08 Regression Model Selection  - ONGOING
+  #### 07 Regression Model Selection  - ONGOING
 ### Part 03 Classification
 ### Part 04 Clustering
 ### Part 05 Association Rule Learning
