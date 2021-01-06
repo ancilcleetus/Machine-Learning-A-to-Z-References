@@ -1,4 +1,4 @@
-# Machine-Learning-A-to-Z-References
+# Machine Learning Foundations
 ## Basics of Machine Learning with relevant notebook examples
 This repository tries to encompass basics of all the major machine learning techniques so that anyone
 can start their machine learning journey with a steep learning curve.
