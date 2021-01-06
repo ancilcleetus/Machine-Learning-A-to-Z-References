@@ -29,8 +29,8 @@ Contents are as follows:
   #### 05 Decision Tree Regression  - DONE
   #### 06 Random Forest Regression  - DONE
   #### 07 Regression Model Selection  - DONE
-### Part 03 Classification  - ONGOING
-  #### 01 Logistic Regression  - ONGOING
+### Part 03 Classification  - TBD
+  #### 01 Logistic Regression  - TBD
   #### 02 K-Nearest Neighbors (K-NN)  - TBD
   #### 03 Support Vector Machine (SVM)  - TBD
   #### 04 Kernel SVM  - TBD
@@ -43,7 +43,7 @@ Contents are as follows:
 ### Part 06 Reinforcement Learning
 ### Part 07 Deep Learning
 ### Part 08 Computer Vision
-### Part 09 Natural Language Processing
-### Part 10 Audio Processing
+### Part 09 Audio Processing
+### Part 10 Natural Language Processing
 ### Part 11 Dimensionality Reduction
 ### Part 12 Model Selection and Boosting
