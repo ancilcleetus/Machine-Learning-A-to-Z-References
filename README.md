@@ -20,28 +20,34 @@ and we can take advantage of the free GPUs for Deep Learning.
 
 Contents are as follows:
 
-### Part 01 Data Preprocessing  - DONE
-### Part 02 Regression  - DONE
-  #### 01 Simple Linear Regression  - DONE
-  #### 02 Multiple Linear Regression  - DONE
-  #### 03 Polynomial Regression  - DONE
-  #### 04 Support Vector Regression  - DONE
-  #### 05 Decision Tree Regression  - DONE
-  #### 06 Random Forest Regression  - DONE
-  #### 07 Regression Model Selection  - DONE
-### Part 03 Classification  - TBD
-  #### 01 Logistic Regression  - TBD
-  #### 02 K-Nearest Neighbors (K-NN)  - TBD
-  #### 03 Support Vector Machine (SVM)  - TBD
-  #### 04 Kernel SVM  - TBD
-  #### 05 Naive Bayes  - TBD
-  #### 06 Decision Tree Classification  - TBD
-  #### 07 Random Forest Classification  - TBD
-  #### 08 Classification Model Selection  - TBD  
+### Part 01 Data Preprocessing                  - DONE
+### Part 02 Regression                          - DONE
+  #### 01 Simple Linear Regression              - DONE
+  #### 02 Multiple Linear Regression            - DONE
+  #### 03 Polynomial Regression                 - DONE
+  #### 04 Support Vector Regression             - DONE
+  #### 05 Decision Tree Regression              - DONE
+  #### 06 Random Forest Regression              - DONE
+  #### 07 Regression Model Selection            - DONE
+### Part 03 Classification                      - TBD
+  #### 01 Logistic Regression                   - TBD
+  #### 02 K-Nearest Neighbors (K-NN)            - TBD
+  #### 03 Support Vector Machine (SVM)          - TBD
+  #### 04 Kernel SVM                            - TBD
+  #### 05 Naive Bayes                           - TBD
+  #### 06 Decision Tree Classification          - TBD
+  #### 07 Random Forest Classification          - TBD
+  #### 08 Classification Model Selection        - TBD  
 ### Part 04 Clustering
 ### Part 05 Association Rule Learning
 ### Part 06 Reinforcement Learning
-### Part 07 Deep Learning
+### Part 07 Deep Learning                       - TBD
+  #### 01 Artificial Neural Networks (ANNs)     - TBD
+  #### 02 Convolutional Neural Networks (CNNs)  - TBD
+  #### 03 Recurrent Neural Networks (RNNs)      - TBD
+  #### 04 Self Organizing Maps (SOMs)           - TBD
+  #### 05 Boltzmann Machines                    - TBD
+  #### 06 Auto Encoders                         - TBD
 ### Part 08 Computer Vision
 ### Part 09 Audio Processing
 ### Part 10 Natural Language Processing
