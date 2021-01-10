@@ -8,11 +8,11 @@ deploy complex neural networks able to solve challenging problems in Machine Lea
 
 In this part, we will learn how to implement the following Deep Learning models:
 
-1. Artificial Neural Networks (ANNs)
-2. Convolutional Neural Networks (CNNs)
-3. Recurrent Neural Networks (RNNs)
-4. Self Organizing Maps (SOMs)
-5. Boltzmann Machines
-6. Auto Encoders
+1. Artificial Neural Networks (ANNs) for Regression and Classification
+2. Convolutional Neural Networks (CNNs) for Computer Vision
+3. Recurrent Neural Networks (RNNs) for Time Series Analysis
+4. Self Organizing Maps (SOMs) for Feature Extraction
+5. Boltzmann Machines for Recommendation Systems
+6. Auto Encoders for Recommendation Systems
 
 We will also discuss how to evaluate performance of our Deep Learning Models and improve them.
